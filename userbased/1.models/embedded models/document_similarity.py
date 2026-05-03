@@ -14,6 +14,7 @@ documents = [
     "Rohit Sharma is known for his elegant batting and record-breaking double centuries.",
     "Jasprit Bumrah is an Indian fast bowler known for his unorthodox action and yorkers."
 ]
+# semantic search 
 
 query = 'tell me about bumrah'
 
